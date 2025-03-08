@@ -1190,6 +1190,4 @@ Probabilistic time series forecasting represents a significant advancement in pr
 
 ---
 
-*Meta Description: A comprehensive guide to probabilistic time series forecasting, covering methods, implementation, case studies, and industry applications. Learn how to improve your forecasting accuracy with uncertainty quantification.*
-
-*Keywords: probabilistic forecasting, time series analysis, Bayesian forecasting, uncertainty quantification, deep probabilistic models, forecasting methods, neural networks, Gaussian processes*
+*All this information was gathered through independent research and open source data.
